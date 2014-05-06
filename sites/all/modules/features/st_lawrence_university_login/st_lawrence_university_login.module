@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the St. Lawrence University Login feature.
+ */
+
+include_once 'st_lawrence_university_login.features.inc';
