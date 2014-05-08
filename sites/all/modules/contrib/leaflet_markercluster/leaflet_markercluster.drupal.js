@@ -25,8 +25,6 @@
 
         // instantiate our new map
         var lMap = new L.Map(this.mapId, settings);
-        var fullScreen = new L.Control.FullScreen();
-        lMap.addControl(fullScreen);
         lMap.bounds = [];
 
         // add map layers
